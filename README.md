@@ -1,2 +1,2 @@
-# Emergency_Button
-Simple C code to esp32 stop klipper on raspberry
+# Emergency_Wifi_Button
+C program to stop klipper when a emergency bytton is press
